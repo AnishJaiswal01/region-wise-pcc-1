@@ -1,0 +1,129 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,All Population,5,Prevalence,163,India,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,8.21869766675e-05,9.92177811274e-05,6.71087202902e-05
+1,All Population,5,Prevalence,163,India,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.000961968150502,0.0010191765452999,0.0009138498792791
+1,All Population,5,Prevalence,4865,Odisha,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0011691084288527,0.001256380169454,0.0010989142426905
+1,All Population,5,Prevalence,4865,Odisha,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0580393517810822,0.0635511148881674,0.0539566972834797
+1,All Population,5,Prevalence,4868,Rajasthan,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0010265734420285,0.001093816170367,0.0009570788099392
+1,All Population,5,Prevalence,4868,Rajasthan,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0517276414033991,0.0569573008112992,0.048155124346964
+1,All Population,5,Prevalence,4870,Tamil Nadu,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.069013813286134,0.0760745841729738,0.0637699632953606
+1,All Population,5,Prevalence,4870,Tamil Nadu,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.051686438744101,0.0580478002074169,0.0461307019195388
+1,All Population,5,Prevalence,4872,Tripura,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0595667936960429,0.0651581235181413,0.055446848516655
+1,All Population,5,Prevalence,4872,Tripura,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.063857895882219,0.0734242183491102,0.0566207606224251
+1,All Population,5,Prevalence,4873,Uttar Pradesh,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,8.87882392293e-05,0.0001180921118041,6.46550974259e-05
+1,All Population,5,Prevalence,4874,Uttarakhand,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0478677856704995,0.0535643266371617,0.0434021459701905
+1,All Population,5,Prevalence,4875,West Bengal,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0001274110209798,0.0001658153446693,9.74188570092e-05
+1,All Population,5,Prevalence,163,India,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0550512388541754,0.0603150440176409,0.0514919757073079
+1,All Population,5,Prevalence,163,India,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0487818161280343,0.0546853312339582,0.0442098609555784
+1,All Population,5,Prevalence,4859,Madhya Pradesh,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0495930467752541,0.054725650133565,0.0460083395918372
+1,All Population,5,Prevalence,4841,Andhra Pradesh,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0555424853268695,0.0626892029876641,0.0496651677044877
+1,All Population,5,Prevalence,4861,Manipur,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0524229372715241,0.0574414427900005,0.0488396203972346
+1,All Population,5,Prevalence,4853,Himachal Pradesh,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0697889924356628,0.0764164142975134,0.064916108683173
+1,All Population,5,Prevalence,4853,Himachal Pradesh,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0579560208554342,0.064175375152251,0.0524016025020777
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.000125331074551,0.0001626409968046,9.33130782939e-05
+1,All Population,5,Prevalence,4863,Mizoram,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0498620059569717,0.0551635553212244,0.0460353028926402
+1,All Population,5,Prevalence,4855,Jharkhand,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0422477295626298,0.0462370078158484,0.0392458753667595
+1,All Population,5,Prevalence,4863,Mizoram,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0541941693068507,0.0617919329540486,0.048735498622914
+1,All Population,5,Prevalence,4855,Jharkhand,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.040869776105379,0.0464559874598875,0.0364258475740942
+1,All Population,5,Prevalence,4864,Nagaland,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,6.29039348422e-05,8.01827059888e-05,4.73469768347e-05
+1,All Population,5,Prevalence,4856,Karnataka,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,6.54139092236e-05,9.18421463657e-05,4.99872798527e-05
+1,All Population,5,Prevalence,4865,Odisha,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0544816514821124,0.0612544538354087,0.0486803030529907
+1,All Population,5,Prevalence,4857,Kerala,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0713491991241434,0.0784437894912742,0.0647634947980008
+1,All Population,5,Prevalence,4867,Punjab,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,7.63433834053e-05,0.0001144949592305,5.36936067737e-05
+1,All Population,5,Prevalence,4859,Madhya Pradesh,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,6.6363319309e-05,8.88671839548e-05,4.98452451566e-05
+1,All Population,5,Prevalence,4868,Rajasthan,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0503319997367775,0.0563363174129821,0.0457550595548673
+1,All Population,5,Prevalence,4860,Maharashtra,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0538556069388141,0.0589243290701419,0.0493639660599253
+1,All Population,5,Prevalence,4869,Sikkim,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.001255072530014,0.0013344532751421,0.0011776677918631
+1,All Population,5,Prevalence,4869,Sikkim,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,7.26051031038e-05,9.37978885154e-05,5.00936019356e-05
+1,All Population,5,Prevalence,4861,Manipur,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0010028933147773,0.0010634875468305,0.0009457861849579
+1,All Population,5,Prevalence,4861,Manipur,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0001549860322295,0.000214507870059,9.94188124236e-05
+1,All Population,5,Prevalence,4871,Telangana,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0006365436193408,0.0006903531981533,0.0005946821468841
+1,All Population,5,Prevalence,4871,Telangana,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,9.82835252645e-05,0.0001699439588072,6.50071957433e-05
+1,All Population,5,Prevalence,4863,Mizoram,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0012532575538289,0.0013350865714658,0.0011788455968894
+1,All Population,5,Prevalence,4844,Bihar,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0408558058214682,0.0449762979815455,0.0379417369057551
+1,All Population,5,Prevalence,4873,Uttar Pradesh,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0009667993329485,0.0010227489221819,0.0009111263759207
+1,All Population,5,Prevalence,4844,Bihar,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0415030526499001,0.0476925398993823,0.0369326482587442
+1,All Population,5,Prevalence,4873,Uttar Pradesh,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0472409433895904,0.051921454212664,0.044079788944782
+1,All Population,5,Prevalence,4846,Chhattisgarh,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,5.35954270712e-05,7.62850253303e-05,3.614193736e-05
+1,All Population,5,Prevalence,44538,Other Union Territories,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,8.85907738517e-05,0.0001189241773473,6.29819887686e-05
+1,All Population,5,Prevalence,4849,Delhi,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0452667356048618,0.0489450265008271,0.0415637002624955
+1,All Population,5,Prevalence,4875,West Bengal,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0009284390786391,0.0009904856544283,0.0008715896087029
+1,All Population,5,Prevalence,4850,Goa,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,8.98265480275e-05,0.0001427348248056,6.0045725699e-05
+1,All Population,5,Prevalence,4875,West Bengal,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0649534043334215,0.0704687620408296,0.0608062021931357
+1,All Population,5,Prevalence,4851,Gujarat,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0495788044224341,0.0557602813851309,0.0445597531409582
+1,All Population,5,Prevalence,4852,Haryana,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0008602524696938,0.0009216242042579,0.0008141874892451
+1,All Population,5,Prevalence,4852,Haryana,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0001276863228177,0.0001698217420229,9.04706837449e-05
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.000493590995825,0.0005346549182814,0.0004607224349707
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0010071052438769,0.0010694227949116,0.0009506340238971
+1,All Population,5,Prevalence,4856,Karnataka,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0008501546273907,0.0009102108926067,0.0008030837208628
+1,All Population,5,Prevalence,4856,Karnataka,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.058538319576899,0.0638845674253525,0.0542388228461455
+1,All Population,5,Prevalence,4859,Madhya Pradesh,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0010492033524969,0.0011111661042198,0.0009885924061525
+1,All Population,5,Prevalence,4841,Andhra Pradesh,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.000664739388181,0.00071442191357,0.0006240381542441
+1,All Population,5,Prevalence,4852,Haryana,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0566600532450828,0.0620795450518028,0.0526258929278891
+1,All Population,5,Prevalence,4867,Punjab,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0008451503579915,0.0009139912274092,0.0007945313931032
+1,All Population,5,Prevalence,4867,Punjab,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0684963369358325,0.0749265162603946,0.0638688220750508
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0543608742466704,0.0595451577470144,0.0503931163817451
+1,All Population,5,Prevalence,4854,Jammu & Kashmir and Ladakh,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0491684939259018,0.0548633804187944,0.0445070929556383
+1,All Population,5,Prevalence,4869,Sikkim,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0531661408072414,0.0581964941922804,0.0495447994455198
+1,All Population,5,Prevalence,4855,Jharkhand,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,7.81860554171e-05,0.0001028597357528,5.74934901144e-05
+1,All Population,5,Prevalence,4856,Karnataka,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0499894169827959,0.0552719667838982,0.0458102056908537
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,6.50384829834e-05,8.36716690457e-05,4.76747250944e-05
+1,All Population,5,Prevalence,4857,Kerala,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0001587036999658,0.0002063854608619,0.0001014927414782
+1,All Population,5,Prevalence,4871,Telangana,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0572783756335861,0.0629693577105209,0.0532642124180952
+1,All Population,5,Prevalence,4871,Telangana,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0452867371523682,0.0512128743794822,0.0406484604568538
+1,All Population,5,Prevalence,4859,Madhya Pradesh,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0451008600993793,0.0507812797068159,0.0407463607923995
+1,All Population,5,Prevalence,4844,Bihar,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0008208175512309,0.0008834340713565,0.0007731448751753
+1,All Population,5,Prevalence,4860,Maharashtra,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0011738303506801,0.0012469078726026,0.0010982391681926
+1,All Population,5,Prevalence,4860,Maharashtra,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,5.09223853598e-05,6.43162544658e-05,4.14406455556e-05
+1,All Population,5,Prevalence,4872,Tripura,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.000129806711354,0.0001779619122321,8.71241668445e-05
+1,All Population,5,Prevalence,4849,Delhi,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0009327794237787,0.0010076152799109,0.0008665671236521
+1,All Population,5,Prevalence,4861,Manipur,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.046799407130228,0.0532739683026076,0.0416353019512413
+1,All Population,5,Prevalence,4849,Delhi,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0566881920261731,0.0623240897520712,0.0526642194673167
+1,All Population,5,Prevalence,4873,Uttar Pradesh,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.04232462494761,0.0472260400312763,0.0387009640787214
+1,All Population,5,Prevalence,4862,Meghalaya,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0007674712104909,0.0008280082223204,0.0007190000940493
+1,All Population,5,Prevalence,4862,Meghalaya,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,9.35134069666e-05,0.000121537271143,6.87578055578e-05
+1,All Population,5,Prevalence,4851,Gujarat,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0010345103710722,0.0011073290760401,0.000976530382344
+1,All Population,5,Prevalence,4851,Gujarat,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0563176956679251,0.0618078921978352,0.0525052651222238
+1,All Population,5,Prevalence,4874,Uttarakhand,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0001568305108875,0.0002017202983962,0.0001154278601784
+1,All Population,5,Prevalence,4875,West Bengal,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0600501214454768,0.0679211895752966,0.0542080220135884
+1,All Population,5,Prevalence,4864,Nagaland,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0008844682526353,0.0009411116044576,0.0008245022520675
+1,All Population,5,Prevalence,4864,Nagaland,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.048042558359302,0.0522052916332661,0.0450599029988745
+1,All Population,5,Prevalence,4852,Haryana,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0546722542775104,0.0610109214451815,0.0497298361036752
+1,All Population,5,Prevalence,4841,Andhra Pradesh,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0680235218784753,0.0746757476782561,0.0629949190611803
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0369127607641554,0.0406293244951456,0.0343843472337314
+1,All Population,5,Prevalence,4853,Himachal Pradesh,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0009662952765947,0.0010430514051669,0.000897656701695
+1,All Population,5,Prevalence,4853,Himachal Pradesh,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,9.08387738224e-05,0.0001216291725837,6.55042288646e-05
+1,All Population,5,Prevalence,4865,Odisha,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0001016840986421,0.0001366708538889,7.12244545528e-05
+1,All Population,5,Prevalence,4867,Punjab,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0463850551978476,0.0518354965173047,0.0415271351066188
+1,All Population,5,Prevalence,4855,Jharkhand,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0008075808619857,0.0008695365070579,0.0007595739798462
+1,All Population,5,Prevalence,4868,Rajasthan,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,4.78754247536e-05,8.07304582293e-05,3.17164384425e-05
+1,All Population,5,Prevalence,4857,Kerala,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0012866381612702,0.001374679871077,0.0012019120719616
+1,All Population,5,Prevalence,4869,Sikkim,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0541165352394062,0.0616881043423376,0.0474137776188451
+1,All Population,5,Prevalence,4857,Kerala,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0874133105741376,0.0962693519814743,0.0808821698584717
+1,All Population,5,Prevalence,4870,Tamil Nadu,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0010289740966796,0.0010919365611628,0.0009633107618397
+1,All Population,5,Prevalence,4870,Tamil Nadu,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0001104367542402,0.0001352159674013,7.49149467429e-05
+1,All Population,5,Prevalence,4860,Maharashtra,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0599225635436476,0.0657239020304106,0.0555794185368463
+1,All Population,5,Prevalence,4872,Tripura,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0012747160357333,0.0013545925309128,0.001193785653432
+1,All Population,5,Prevalence,4862,Meghalaya,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0394052158478004,0.0434108232152729,0.0367274474791224
+1,All Population,5,Prevalence,4862,Meghalaya,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0545007013679538,0.0643339271470524,0.047156484183907
+1,All Population,5,Prevalence,44538,Other Union Territories,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.044926053501858,0.0511720963107717,0.0398562626070899
+1,All Population,5,Prevalence,4863,Mizoram,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0002528832216401,0.0003405278800113,0.0001014234276539
+1,All Population,5,Prevalence,4874,Uttarakhand,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0012603342931961,0.0013494680764669,0.0011844219042326
+1,All Population,5,Prevalence,4874,Uttarakhand,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0573257201683805,0.0630922487729423,0.0533857500161089
+1,All Population,5,Prevalence,4864,Nagaland,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0482119129895341,0.0556416881746868,0.0422725320410763
+1,All Population,5,Prevalence,4841,Andhra Pradesh,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,6.35451529517e-05,0.0001323276676883,4.16422570943e-05
+1,All Population,5,Prevalence,44538,Other Union Territories,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0009182834039009,0.0009791970895183,0.0008473473613006
+1,All Population,5,Prevalence,4843,Assam,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0466274798345667,0.0510735895947031,0.0435533718877771
+1,All Population,5,Prevalence,4843,Assam,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0444022615608659,0.0509154652855495,0.0397140837094131
+1,All Population,5,Prevalence,4843,Assam,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0008787571749503,0.0009361209319506,0.0008252835973469
+1,All Population,5,Prevalence,4843,Assam,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0001226005376273,0.0001605511610709,8.62280102045e-05
+1,All Population,5,Prevalence,4844,Bihar,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,1.97680311201e-05,6.20433879143e-05,1.02191007091e-05
+1,All Population,5,Prevalence,4846,Chhattisgarh,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0392762418818401,0.0446360807548284,0.0348730635723408
+1,All Population,5,Prevalence,4846,Chhattisgarh,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0008219489268211,0.0008781697443761,0.0007723787838836
+1,All Population,5,Prevalence,4846,Chhattisgarh,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0473143996383493,0.0518201374253799,0.0443768464234516
+1,All Population,5,Prevalence,4849,Delhi,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,9.24390081165e-05,0.0001219442438754,6.80681063489e-05
+1,All Population,5,Prevalence,4850,Goa,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0566443382428152,0.0634865460002429,0.0504842743490221
+1,All Population,5,Prevalence,4850,Goa,3,Both,22,All ages,322,Lower respiratory infections,2,Percent,2023,0.0012733306159162,0.00136722085552,0.0011891496433427
+1,All Population,5,Prevalence,4850,Goa,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0799462142706607,0.0875496920411868,0.0739849514807058
+1,All Population,5,Prevalence,4851,Gujarat,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",2,Percent,2023,0.0001049714178754,0.0001410383756738,7.52425157171e-05
+1,All Population,5,Prevalence,4842,Arunachal Pradesh,3,Both,22,All ages,508,Chronic respiratory diseases,2,Percent,2023,0.0413427237094995,0.0485578463266879,0.0362555623637107
+1,All Population,5,Prevalence,44538,Other Union Territories,3,Both,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0576387863794648,0.0633409861383248,0.0535334646698393
